@@ -43,7 +43,7 @@ filters:
     - "Full Time"
     - "Internship"
 
-resume_path: "./resume/anish_jrall_resume.pdf"
+resume_path: "./resume/anish.pdf"
 
 applicant:
   name: "Anish Jrall"
